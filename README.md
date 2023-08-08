@@ -6,6 +6,8 @@
 
 Turma Online on26 | python | Semana 1 | 2023 | Professora Beatriz Ramerindo
 
+Exemplo para pull request
+
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
